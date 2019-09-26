@@ -5,6 +5,7 @@ permalink: /questions/html-questions/index.html
 ---
 
 * What does a `doctype` do?
+    Answer: 
 * How do you serve a page with content in multiple languages?
 * What kind of things must you be wary of when design or developing for multilingual sites?
 * What are `data-` attributes good for?
